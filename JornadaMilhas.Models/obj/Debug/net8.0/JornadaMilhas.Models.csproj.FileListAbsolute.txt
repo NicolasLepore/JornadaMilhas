@@ -1,0 +1,11 @@
+C:\Users\nigam\source\repos\JornadaMilhas\JornadaMilhas.Models\bin\Debug\net8.0\JornadaMilhas.Models.deps.json
+C:\Users\nigam\source\repos\JornadaMilhas\JornadaMilhas.Models\bin\Debug\net8.0\JornadaMilhas.Models.dll
+C:\Users\nigam\source\repos\JornadaMilhas\JornadaMilhas.Models\bin\Debug\net8.0\JornadaMilhas.Models.pdb
+C:\Users\nigam\source\repos\JornadaMilhas\JornadaMilhas.Models\obj\Debug\net8.0\JornadaMilhas.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nigam\source\repos\JornadaMilhas\JornadaMilhas.Models\obj\Debug\net8.0\JornadaMilhas.Models.AssemblyInfoInputs.cache
+C:\Users\nigam\source\repos\JornadaMilhas\JornadaMilhas.Models\obj\Debug\net8.0\JornadaMilhas.Models.AssemblyInfo.cs
+C:\Users\nigam\source\repos\JornadaMilhas\JornadaMilhas.Models\obj\Debug\net8.0\JornadaMilhas.Models.csproj.CoreCompileInputs.cache
+C:\Users\nigam\source\repos\JornadaMilhas\JornadaMilhas.Models\obj\Debug\net8.0\JornadaMilhas.Models.dll
+C:\Users\nigam\source\repos\JornadaMilhas\JornadaMilhas.Models\obj\Debug\net8.0\refint\JornadaMilhas.Models.dll
+C:\Users\nigam\source\repos\JornadaMilhas\JornadaMilhas.Models\obj\Debug\net8.0\JornadaMilhas.Models.pdb
+C:\Users\nigam\source\repos\JornadaMilhas\JornadaMilhas.Models\obj\Debug\net8.0\ref\JornadaMilhas.Models.dll

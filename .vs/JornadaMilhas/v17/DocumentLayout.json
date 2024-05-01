@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nigam\\source\\repos\\JornadaMilhas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3CE877C-8A63-42F0-B9D4-42616FA20548}|JornadaMilhas.Models\\JornadaMilhas.Models.csproj|c:\\users\\nigam\\source\\repos\\jornadamilhas\\jornadamilhas.models\\depoimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3CE877C-8A63-42F0-B9D4-42616FA20548}|JornadaMilhas.Models\\JornadaMilhas.Models.csproj|solutionrelative:jornadamilhas.models\\depoimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE94B60-4557-4099-9E2E-F957A44FDAAD}|JornadaMilhas.API\\JornadaMilhas.API.csproj|c:\\users\\nigam\\source\\repos\\jornadamilhas\\jornadamilhas.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE94B60-4557-4099-9E2E-F957A44FDAAD}|JornadaMilhas.API\\JornadaMilhas.API.csproj|solutionrelative:jornadamilhas.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE94B60-4557-4099-9E2E-F957A44FDAAD}|JornadaMilhas.API\\JornadaMilhas.API.csproj|c:\\users\\nigam\\source\\repos\\jornadamilhas\\jornadamilhas.api\\controllers\\destinocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE94B60-4557-4099-9E2E-F957A44FDAAD}|JornadaMilhas.API\\JornadaMilhas.API.csproj|solutionrelative:jornadamilhas.api\\controllers\\destinocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Depoimento.cs",
+              "DocumentMoniker": "C:\\Users\\nigam\\source\\repos\\JornadaMilhas\\JornadaMilhas.Models\\Depoimento.cs",
+              "RelativeDocumentMoniker": "JornadaMilhas.Models\\Depoimento.cs",
+              "ToolTip": "C:\\Users\\nigam\\source\\repos\\JornadaMilhas\\JornadaMilhas.Models\\Depoimento.cs",
+              "RelativeToolTip": "JornadaMilhas.Models\\Depoimento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T22:07:50.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nigam\\source\\repos\\JornadaMilhas\\JornadaMilhas.API\\Program.cs",
+              "RelativeDocumentMoniker": "JornadaMilhas.API\\Program.cs",
+              "ToolTip": "C:\\Users\\nigam\\source\\repos\\JornadaMilhas\\JornadaMilhas.API\\Program.cs",
+              "RelativeToolTip": "JornadaMilhas.API\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T21:43:25.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DestinoController.cs",
+              "DocumentMoniker": "C:\\Users\\nigam\\source\\repos\\JornadaMilhas\\JornadaMilhas.API\\Controllers\\DestinoController.cs",
+              "RelativeDocumentMoniker": "JornadaMilhas.API\\Controllers\\DestinoController.cs",
+              "ToolTip": "C:\\Users\\nigam\\source\\repos\\JornadaMilhas\\JornadaMilhas.API\\Controllers\\DestinoController.cs",
+              "RelativeToolTip": "JornadaMilhas.API\\Controllers\\DestinoController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T17:00:09.477Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

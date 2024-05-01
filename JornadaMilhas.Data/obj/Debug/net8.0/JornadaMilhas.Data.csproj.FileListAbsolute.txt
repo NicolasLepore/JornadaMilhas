@@ -1,0 +1,17 @@
+C:\Users\nigam\source\repos\JornadaMilhas\JornadaMilhas.Data\bin\Debug\net8.0\JornadaMilhas.Data.deps.json
+C:\Users\nigam\source\repos\JornadaMilhas\JornadaMilhas.Data\bin\Debug\net8.0\JornadaMilhas.Data.runtimeconfig.json
+C:\Users\nigam\source\repos\JornadaMilhas\JornadaMilhas.Data\bin\Debug\net8.0\JornadaMilhas.Data.dll
+C:\Users\nigam\source\repos\JornadaMilhas\JornadaMilhas.Data\bin\Debug\net8.0\JornadaMilhas.Data.pdb
+C:\Users\nigam\source\repos\JornadaMilhas\JornadaMilhas.Data\bin\Debug\net8.0\JornadaMilhas.Models.dll
+C:\Users\nigam\source\repos\JornadaMilhas\JornadaMilhas.Data\bin\Debug\net8.0\JornadaMilhas.Models.pdb
+C:\Users\nigam\source\repos\JornadaMilhas\JornadaMilhas.Data\obj\Debug\net8.0\JornadaMilhas.Data.csproj.AssemblyReference.cache
+C:\Users\nigam\source\repos\JornadaMilhas\JornadaMilhas.Data\obj\Debug\net8.0\JornadaMilhas.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nigam\source\repos\JornadaMilhas\JornadaMilhas.Data\obj\Debug\net8.0\JornadaMilhas.Data.AssemblyInfoInputs.cache
+C:\Users\nigam\source\repos\JornadaMilhas\JornadaMilhas.Data\obj\Debug\net8.0\JornadaMilhas.Data.AssemblyInfo.cs
+C:\Users\nigam\source\repos\JornadaMilhas\JornadaMilhas.Data\obj\Debug\net8.0\JornadaMilhas.Data.csproj.CoreCompileInputs.cache
+C:\Users\nigam\source\repos\JornadaMilhas\JornadaMilhas.Data\obj\Debug\net8.0\JornadaM.80DE81CB.Up2Date
+C:\Users\nigam\source\repos\JornadaMilhas\JornadaMilhas.Data\obj\Debug\net8.0\JornadaMilhas.Data.dll
+C:\Users\nigam\source\repos\JornadaMilhas\JornadaMilhas.Data\obj\Debug\net8.0\refint\JornadaMilhas.Data.dll
+C:\Users\nigam\source\repos\JornadaMilhas\JornadaMilhas.Data\obj\Debug\net8.0\JornadaMilhas.Data.pdb
+C:\Users\nigam\source\repos\JornadaMilhas\JornadaMilhas.Data\obj\Debug\net8.0\JornadaMilhas.Data.genruntimeconfig.cache
+C:\Users\nigam\source\repos\JornadaMilhas\JornadaMilhas.Data\obj\Debug\net8.0\ref\JornadaMilhas.Data.dll
