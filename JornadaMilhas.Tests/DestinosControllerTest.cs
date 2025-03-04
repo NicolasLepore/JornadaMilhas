@@ -32,7 +32,7 @@ namespace JornadaMilhas.Tests
 
             var destino = new CreateDestinoDto()
             {
-                Nome = "Casa do Break Teste",
+                Nome = "Casa Teste",
                 Preco = 111.11
             };
 
@@ -48,7 +48,7 @@ namespace JornadaMilhas.Tests
 
             var destino = new UpdateDestinoDto()
             {
-                Nome = "Casa do Break Real Oficial",
+                Nome = "Casa Real Oficial",
                 Preco = 111.99
             };
 
