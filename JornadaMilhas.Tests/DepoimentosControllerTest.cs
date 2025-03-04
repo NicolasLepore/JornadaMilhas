@@ -37,8 +37,8 @@ namespace JornadaMilhas.Tests
 
             var depoimento = new CreateDepoimentoDto()
             {
-                Nome = "Break Teste",
-                Texto = "Gostei Muito Nine, obrigado pela mensagem!"
+                Nome = "Teste",
+                Texto = "Gostei Muito, obrigado pela mensagem!"
             };
 
             var response = await client.PostAsJsonAsync(_url, depoimento);
@@ -53,8 +53,8 @@ namespace JornadaMilhas.Tests
 
             var depoimento = new UpdateDepoimentoDto()
             {
-                Nome = "Break Real Oficial",
-                Texto = "OI NOVE GOSTEI DA MENSAGEM"
+                Nome = "Real Oficial",
+                Texto = "OI GOSTEI DA MENSAGEM"
             };
 
             var response = await client.PutAsJsonAsync($"{_url}/{id}", depoimento);
